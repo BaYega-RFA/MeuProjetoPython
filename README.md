@@ -1,2 +1,2 @@
 # MeuProjetoPython
-MeuProjetoPython é o projeto de demonstração do curso de extensão "GitGitHub" da Ânima.
+MeuProjetoPython is the demonstration project of the extension course "GitGitHub" by Ânima.
